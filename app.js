@@ -18,7 +18,7 @@ const options = {
         email: "dkomatin@uncc.edu",
       },
     },
-    host: "localhost:3000",
+    host: "http://143.198.97.47:3000",
     basePath: "/",
   },
   apis: ["./app.js"],

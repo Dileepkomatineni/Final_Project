@@ -1,5 +1,6 @@
 # ITIS_6177_Final_Project
 ### By Dileep Kumar Komatineni
+##### These API's can be tested using Swagger -> [Click here](http://143.198.97.47/:3000/api-docs/)
 
 This is the final project assignment for ITIS 6177 that was to create an Named Entity Recognition API using [Azure Text Analytics](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/)
 

@@ -153,7 +153,7 @@ app.post("/EntityLinking", async (req, res) => {
  *         description: Successfully retrieved response
  */
 
-app.post("/Pii", async (req, res) => {
+app.post("/pii", async (req, res) => {
   let piiRecognition = req.body.PIIText;
   console.log(piiRecognition);
   const entityResults = await textAnalyticsClient.recognizePiiEntities(
